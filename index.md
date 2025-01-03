@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/d5d87a3a-6e85-4412-8bb2-6ab9513a2622)
 
-Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body; the latter process is referred to as metastasis. Metastases are the primary cause of death from cancer. Over 100 types of cancers affect humans. Cancer is a leading cause of death worldwide.Cancer is a genetic disease as it is caused by mutations or changes to genes that control the way our cells function, causing them to behave irregularly, especially how they grow and divide.
+Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body; the latter process is referred to as metastasis. Metastases are the primary cause of death from cancer. Over 100 types of cancers affect humans. Cancer is a leading cause of death worldwide.Cancer is a genetic disease as it is caused by mutations or changes to genes that control the way our cells function, causing them to behave irregularly, especially how they grow and divide.<br>
 
 ![image](https://github.com/user-attachments/assets/c67431da-f878-43fb-97fb-a6cee08b7658)
 
@@ -35,10 +35,10 @@ Breast cancer spreads when the cancer grows into adjacent organs or other parts 
 
 Breast cancer can be invasive or non-invasive. Invasive breast cancer is cancer that spreads into surrounding tissues and/or distant organs. Non-invasive breast cancer does not go beyond the milk ducts or lobules in the breast.
 
-1. Ductal carcinoma — These cancers start in the cells lining the milk ducts and make up the majority of breast cancers.
+1. ### Ductal carcinoma — These cancers start in the cells lining the milk ducts and make up the majority of breast cancers.
    * Ductal carcinoma in situ (DCIS) — This is a non-invasive cancer that is located only in the duct and has not spread outside the duct.
    * Invasive or infiltrating ductal carcinoma — This is cancer that has spread outside of the duct.
-2. Invasive lobular carcinoma — This is cancer that started in the lobules and has spread outside of the lobules.
+2. ### Invasive lobular carcinoma — This is cancer that started in the lobules and has spread outside of the lobules.
 
 Less common types of breast cancer include:
 
@@ -112,8 +112,8 @@ The most widely used method of staging breast cancer is the TNM system
 
 TNM stands for:
 
-T = Tumor size (How large is the primary tumor in the breast? What are its biomarkers?)
-N = Lymph node status (the number and location of lymph nodes with cancer)
+T = Tumor size (How large is the primary tumor in the breast? What are its biomarkers?)<br>
+N = Lymph node status (the number and location of lymph nodes with cancer)<br>
 M = Metastases (whether or not the cancer has spread to other areas of the body)
 
 ## Treatment :
@@ -173,17 +173,20 @@ The effectiveness of breast cancer therapies depends on the full course of treat
 Breast Cancer is painful just not because it’s a disease, but also because it brings a lot of challenges with it. Breast cancer survivors are found to have multiple physical, psychological and social problems. Like in the treatment of any other hazardous disease, “Finance” is a big challenge in breast cancer treatments too. People need financial stability to get access to a treatment centre with an oncologist in order to receive treatment. Since it’s a disease related to breast, many people feel uncomfortable discussing the topic of breast cancer. Due to the shamefulness associated with
 women’s health and the sexual association of breast, many women and men are embarrassed to discuss the topic. The most effective way of overcoming this challenge is, educating both men and women on breast cancer through the use of community workers.
 
-![image](https://github.com/user-attachments/assets/94322879-7a86-43a9-93f3-482c31e3d96d)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/94322879-7a86-43a9-93f3-482c31e3d96d" alt="Image">
+</div>
 
-
-### Thanks for reading! be sure to click the clap icon👏 to applaud and share so others also can read it.
+<div style="text-align: center;"
+### Thanks for reading! to read more such blogs [visit here](https://medium.com/@Harshit_).
+</div>
 
 ---
 
 Sources of information( since I am not a doctor/oncologist)
 
-https://www.cancer.net/navigating-cancer-care/cancer-basics/what-cancer
-https://www.wci.co.in/
-https://www.who.int/news-room/fact-sheets/detail/breast-cancer
+https://www.cancer.net/navigating-cancer-care/cancer-basics/what-cancer <br>
+https://www.wci.co.in/ <br>
+https://www.who.int/news-room/fact-sheets/detail/breast-cancer <br>
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
