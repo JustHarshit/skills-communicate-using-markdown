@@ -176,7 +176,7 @@ women’s health and the sexual association of breast, many women and men are em
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/94322879-7a86-43a9-93f3-482c31e3d96d" alt="Image">
 </div>
-
+<br>
 <div style="text-align: center;">
   ### Thanks for reading! to read more such blogs [visit here](https://medium.com/@Harshit_).
 </div>
@@ -185,8 +185,10 @@ women’s health and the sexual association of breast, many women and men are em
 
 Sources of information( since I am not a doctor/oncologist)
 
-(https://www.cancer.net/navigating-cancer-care/cancer-basics/what-cancer) <br>
-(https://www.wci.co.in/) <br>
-(https://www.who.int/news-room/fact-sheets/detail/breast-cancer) <br>
+https://www.cancer.net/navigating-cancer-care/cancer-basics/what-cancer
+
+https://www.wci.co.in/
+
+https://www.who.int/news-room/fact-sheets/detail/breast-cancer
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
