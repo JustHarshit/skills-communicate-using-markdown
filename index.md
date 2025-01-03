@@ -177,7 +177,7 @@ women’s health and the sexual association of breast, many women and men are em
   <img src="https://github.com/user-attachments/assets/94322879-7a86-43a9-93f3-482c31e3d96d" alt="Image">
 </div>
 
-<div style="text-align: center;"
+<div style="text-align: center;">
 ### Thanks for reading! to read more such blogs [visit here](https://medium.com/@Harshit_).
 </div>
 
